@@ -16,8 +16,8 @@ Here are some of the projects I've worked on:
 - authentication-smothiees-recipres-website: authentication system for smoothies recipes website using Node.js Express.js EJS and database with MongoDB
 
 ## Get in Touch
-- LinkedIn: [(https://www.linkedin.com/in/boubaidja-mohamed-el-bachir-640074275/)](https://www.linkedin.com/in/boubaidja-mohamed-el-bachir-640074275/)
-- Portfolio: [Your Twitter Profile Link](https://portfolio-bachirs-projects.vercel.app)
+- LinkedIn: [Link](https://www.linkedin.com/in/boubaidja-mohamed-el-bachir-640074275/)
+- Portfolio: [Link](https://portfolio-bachirs-projects.vercel.app)
 - Email: boubaidjabachir3@gmail.com
 
 Feel free to reach out if you'd like to collaborate on any projects or just to say hi! 😊
