@@ -21,3 +21,5 @@ Here are some of the projects I've worked on:
 - Email: boubaidjabachir3@gmail.com
 
 Feel free to reach out if you'd like to collaborate on any projects or just to say hi! 😊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BMBachir&show_icons=true&theme=radical)
