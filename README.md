@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN stack developer with expertise in ES6 and Tailwind CSS for styling. I'm passionate about building scalable web applications and creating intuitive user experiences. With a Master's degree in Web Intelligence Artificial, I bring a deep understanding of intelligent systems to my work.
+As a web developer, building cool stuff online runs in my blood! I'm all about making websites that not only look great but also work smoothly. I've got skills in JavaScript, React, Node.js, and more, so I can handle pretty much anything you throw at me. I'm a curious learner, always eager to pick up new tricks and tools to make my projects even better. Plus, I'm a team player I love bouncing ideas around with others and turning them into awesome digital creations. Let's team up and create some awesome web experiences together!
 
 
 ## 🌐 Socials:
