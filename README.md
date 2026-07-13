@@ -34,7 +34,7 @@
 
 # 🚀 About Me
 
-- 💼 Software Engineer at **Algérie Télécom Satellite (ATS)**
+- 💼 IT professional level 2 in charge of development at **Algérie Télécom Satellite (ATS)**
 - 🚀 4+ years building web applications and enterprise software
 - 🎯 Specialized in **Next.js**, **React**, **Node.js**, **TypeScript**
 - 🏗️ Passionate about clean architecture and scalable systems
